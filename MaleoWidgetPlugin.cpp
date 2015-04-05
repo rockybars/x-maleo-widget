@@ -1,8 +1,6 @@
 #include "MaleoWidgetPlugin.h"
 
 #include <stdexcept>
-#include <cstring>
-#include <cstdlib>
 #include <gtk/gtk.h>
 #include <gtk/gtkx.h>
 

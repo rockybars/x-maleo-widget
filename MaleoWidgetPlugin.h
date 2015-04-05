@@ -4,11 +4,8 @@
 #include "npapi.h"
 #include "npfunctions.h"
 
-#include <pthread.h>
-#include <string>
 #include <map>
-
-#include <gdk/gdk.h>
+#include <string>
 #include <gtk/gtk.h>
 
 class MaleoWidgetPlugin
