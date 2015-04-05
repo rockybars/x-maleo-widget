@@ -1,9 +1,8 @@
 #include "maleo-npapi.h"
 
-#include <stdexcept>
 #include <map>
+#include <stdexcept>
 
-#include <cstdio>
 #include "MaleoWidgetPlugin.h"
 
 static char * const szVersion = "1.0.0"; 
